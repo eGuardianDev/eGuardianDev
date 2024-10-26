@@ -1,9 +1,11 @@
 <div align="center">
-<h1>eGuardian Development</h1>
-<h2>more known as Tsvetomir</h2>
-<h4>I make and develop stuff</h4>
-Most current projects:<br>
-<a href="https://github.com/eGuardianDev/atmegaStepperDriver">1.atmegaStepperDriver</a><br>
+<h1>Tsvetomir Staykov</h1>
+I need more sleep
+  <br>
+Currently: 
+  
+  studying stuff for university |[Link](https://github.com/eGuardianDev/University-Work)| <br>
+  no much time for personal projects
 
 
 </div>
