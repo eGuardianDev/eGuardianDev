@@ -1,9 +1,13 @@
 <div align="center">
-  <h1>Tsvetomir Staykov </h1>
-  <p>Student</p>
+  <h1>Tsvetomir Staykov</h1>
+  <p>Fourth year Computer Science Student @ Sofia University.</p>
+  <p>Focus on Embedded systems and low level development.</p>
+  <p>Contributor in <a href="https://linktr.ee/scaebulgaria">SCAE</a>.</p>
+  <br>
 </div>
 
-## Recent projects:
+## Features:
+
 
 | Project | Designed for | Technology | Link | Comment |
 |---------|--------------|------------|------|---------|
@@ -27,3 +31,4 @@
 ## Other links
  - all of my University work -> [repo](https://github.com/eGuardianDev/University-Work)
  - my website -> [eguardian.dev](https://eguardian.dev)
+ - Linkedin -> [tsvetomir-staykov](https://www.linkedin.com/in/tsvetomir-staykov/)
